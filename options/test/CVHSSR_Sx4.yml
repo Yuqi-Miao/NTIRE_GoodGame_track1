@@ -58,7 +58,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: /data/sr/StereoSR/CVHSSR-CA/experiments/Final+2/models/net_g_150000.pth
+  pretrain_network_g: ../pretrain/besk_ckpt.pth
   strict_load_g: true
   resume_state: ~
 
